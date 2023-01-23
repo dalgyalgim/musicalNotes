@@ -5,7 +5,7 @@ coTitle: "Opera HIT"
 
 **Description:** 
 Built upon OpenFrameworks.
-Visual Application that creates different colored emoticions based upon keyboard switches.
+Visual Application that creates different colored emoticions based upon gui mainpulation.
 
 NOTE: 
 "ofTrueTypeFontSettings" does not correctly load in font packages when importing font packages through ofUnicode.
