@@ -3,6 +3,7 @@
 Visual App displaying different colored emoticons.
 
 Built upon OpenFrameworks.
+
 NOTE: 
 
 "ofTrueTypeFontSettings" does not correctly load in font packages when importing font packages through ofUnicode.
